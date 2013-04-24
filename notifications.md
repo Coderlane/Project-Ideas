@@ -25,6 +25,10 @@ I would like a program/collection of programs to help notify club members of clu
 * Make the event public
 * Invite all club members
 
+###Web module
+* allow users to subscribe and unsubscribe based on their email address.
+* Allow admins to create events
+
 ##Recipe
 * Date
 * Location
